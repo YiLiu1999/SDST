@@ -7,18 +7,11 @@ Illustration of SDST
 
 # Results
 The performance of our proposed SDST in HSI datasets.
-
-Salinas
-
+## Salinas
 ![image](https://github.com/YiLiu1999/SDST/assets/75960351/5d2d5fec-5bba-4819-8d9c-fd55d261f0db)
-
-Botswana
-
+## Botswana
 ![image](https://github.com/YiLiu1999/SDST/assets/75960351/76733715-8484-45e3-b245-e61310104de3)
-
-
-Indian_Pines
-
+## Indian_Pines
 ![image](https://github.com/YiLiu1999/SDST/assets/75960351/aca1aafa-d110-4d9b-bb05-1ee45f717f28)
 
 # Quick Verification
