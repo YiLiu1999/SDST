@@ -1,6 +1,4 @@
-# SDST
-SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering
-
+# SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering
 An official source code for paper SDST: Self-supervised Double-Structure Transformer for Hyperspectral Images Clustering, accepted by TGRS. Any communications or issues are welcomed. Please contact 202214131160@stu.cqu.edu.cn. If you find this repository useful to your research or work, it is really appreciate to star this repository.
 
 # Overview
@@ -26,9 +24,6 @@ Indian_Pines
 # Quick Verification
 
 
-
-
-
 ```
 python main.py
 ```
@@ -44,7 +39,6 @@ If you use code or datasets in this repository for your research, please cite ou
   title={SDST: Self-Supervised Double-Structure Transformer for Hyperspectral Images Clustering}, 
   year={2024},
   volume={62},
-  number={},
   pages={1-14},
   keywords={Transformers;Feature extraction;Clustering methods;Optimization;Self-supervised learning;Hyperspectral imaging;Clustering algorithms;Autoencoder;graph convolution;hyperspectral image (HSI) clustering;self-supervised learning;transformer},
   doi={10.1109/TGRS.2024.3374597}}
