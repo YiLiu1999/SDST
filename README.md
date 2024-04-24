@@ -9,16 +9,34 @@ Illustration of SDST
 
 # Results
 The performance of our proposed SDST in HSI datasets.
+
 Salinas
+
 ![image](https://github.com/YiLiu1999/SDST/assets/75960351/5d2d5fec-5bba-4819-8d9c-fd55d261f0db)
+
 Botswana
-![Uploading image.png…]()
-IndianPines
-![Uploading image.png…]()
+
+![image](https://github.com/YiLiu1999/SDST/assets/75960351/76733715-8484-45e3-b245-e61310104de3)
+
+
+Indian_Pines
+
+![image](https://github.com/YiLiu1999/SDST/assets/75960351/aca1aafa-d110-4d9b-bb05-1ee45f717f28)
 
 # Quick Verification
-python test.py 
+
+
+
+
+
+```
+python main.py
+```
+
+
 # Citation
+
+```
 If you use code or datasets in this repository for your research, please cite our paper.
 @ARTICLE{10462168,
   author={Luo, Fulin and Liu, Yi and Duan, Yule and Guo, Tan and Zhang, Lefei and Du, Bo},
@@ -30,3 +48,4 @@ If you use code or datasets in this repository for your research, please cite ou
   pages={1-14},
   keywords={Transformers;Feature extraction;Clustering methods;Optimization;Self-supervised learning;Hyperspectral imaging;Clustering algorithms;Autoencoder;graph convolution;hyperspectral image (HSI) clustering;self-supervised learning;transformer},
   doi={10.1109/TGRS.2024.3374597}}
+```
