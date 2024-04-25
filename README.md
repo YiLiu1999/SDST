@@ -23,9 +23,8 @@ python main.py
 
 
 # Citation
-
-```
 If you use code or datasets in this repository for your research, please cite our paper.
+```
 @ARTICLE{10462168,
   author={Luo, Fulin and Liu, Yi and Duan, Yule and Guo, Tan and Zhang, Lefei and Du, Bo},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
