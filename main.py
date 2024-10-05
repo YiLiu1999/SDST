@@ -90,7 +90,7 @@ elif DATASET == 'HoustonU':
 # plt.imshow(read_data)
 # plt.show()
 
-segments = slic(read_data, n_segments=20, compactness=1,
+segments = slic(read_data, n_segments=n_seg, compactness=1,
                 convert2lab=True, sigma=1,
                 min_size_factor=0.1, max_size_factor=2,
                 slic_zero=False, start_label=1)
